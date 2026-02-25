@@ -7,18 +7,11 @@ dist/
 build/
 
 .ipynb_checkpoints/
-*.ipynb
 
 venv/
 env/
 .env
 
-bronze/
-silver/
-gold/
-*.parquet
-*.csv
-*.json
 *.avro
 
 *.log
